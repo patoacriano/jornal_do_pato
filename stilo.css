@@ -1,0 +1,73 @@
+.teto{
+  background-color: #6dd7d9;
+  border: solid 2px white;
+  border-radius: 25px;
+  margin: 30px;
+  text-align: center;
+  font-family: Arial;
+  font-style: oblique; 
+  text-shadow:1px 2px #fff;
+}
+.image{
+  text-align: left !important;
+  margin-bottom:0; !important
+  margin-top:15px;
+}
+.logina{
+  background-color:#cfcf;
+}
+
+.login{
+  border-radius:10px;
+  border-style: dotted;
+  border-width:2px;
+  border-color:white;
+  margin-right:90% ;
+  background-color: lightblue;
+
+}
+
+#perfil{
+  margin-top:15px;
+  border:none;
+  padding:0;
+  margin: 0px;
+}
+
+.inicial{
+  background-image:url(./proxy.duckduckgo.com.jpg);
+}
+
+.ferramentas{
+  background-color: #fff;
+}
+
+body{
+  background-color: #fff;
+  opacity: 0.8;
+  margin:0% 10%;
+}
+
+
+.post{
+  background-color: #ffffff;
+  margin:5px;
+  
+}
+
+p{
+  padding: 3px;
+  margin: 0 5px;
+  border-style: double;
+  border-width: 1px;
+}
+
+.postsimportantes{
+  background-color: #c2c2c2;
+  margin: 5px;
+}
+
+.hee{
+  border-style: none;
+}
+
