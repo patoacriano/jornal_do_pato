@@ -1,17 +1,18 @@
 .teto{
+  font-family: helvetica;
   background-color: #6dd7d9;
   border: solid 2px white;
   border-radius: 25px;
   margin: 30px;
   text-align: center;
-  font-family: Arial;
-  font-style: oblique; 
   text-shadow:1px 2px #fff;
 }
 .image{
   text-align: left !important;
   margin-bottom:0; !important
   margin-top:15px;
+  border-top: solid 2px red;
+  border-radius:15px;
 }
 .logina{
   background-color:#cfcf;
@@ -29,9 +30,11 @@
 
 #perfil{
   margin-top:15px;
-  border:none;
-  padding:0;
-  margin: 0px;
+  border-top:dotted 2px;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  border-radius:20px;
 }
 
 .inicial{
@@ -55,9 +58,15 @@ body{
   
 }
 
+h3{
+  font-family:monospace;
+}
+
 p{
+  font-family:georgia;
   padding: 3px;
-  margin: 0 5px;
+  margin-left:5px;
+  margin-right:5px;
   border-style: double;
   border-width: 1px;
 }
