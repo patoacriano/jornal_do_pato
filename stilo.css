@@ -9,7 +9,7 @@
 }
 .image{
   text-align: left !important;
-  margin-bottom:0; !important
+  margin-bottom:0 !important;
   margin-top:15px;
   border-top: solid 2px red;
   border-radius:15px;
@@ -18,14 +18,20 @@
   background-color:#cfcf;
 }
 
-.login{
-  border-radius:10px;
-  border-style: dotted;
-  border-width:2px;
-  border-color:white;
-  margin-right:90% ;
-  background-color: lightblue;
-
+.botao{
+  margin-bottom: 4px;
+  margin-top: 4px;
+  margin-left: 8px;
+  margin-right:8px;
+  opacity: 1 !important; 
+  background-color: #8B4513;
+  border:none;
+  color:white;
+  font-size: 16px;
+  padding: 5px 8px;
+  text-align: left;
+  display:inline-block;
+  border-radius:3px;
 }
 
 #perfil{
@@ -38,6 +44,7 @@
 }
 
 .inicial{
+  opacity:0.9;
   background-image:url(./proxy.duckduckgo.com.jpg);
 }
 
@@ -47,7 +54,6 @@
 
 body{
   background-color: #fff;
-  opacity: 0.8;
   margin:0% 10%;
 }
 
