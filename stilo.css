@@ -7,11 +7,17 @@
   text-align: center;
   text-shadow:1px 2px #fff;
 }
+
+img{
+  width: 40px;
+  height:40px;
+}
+
 .image{
   text-align: left !important;
   margin-bottom:0 !important;
-  margin-top:15px;
-  border-top: solid 2px red;
+  margin-top:5px;
+  border-top: solid 2px lightgray;
   border-radius:15px;
 }
 .logina{
@@ -19,15 +25,13 @@
 }
 
 .botao{
-  margin-bottom: 4px;
-  margin-top: 4px;
   margin-left: 8px;
   margin-right:8px;
   opacity: 1 !important; 
   background-color: #8B4513;
   border:none;
   color:white;
-  font-size: 16px;
+  font-size: 14px;
   padding: 5px 8px;
   text-align: left;
   display:inline-block;
@@ -35,7 +39,8 @@
 }
 
 #perfil{
-  margin-top:15px;
+  text-align:center;
+  margin-top:5px;
   border-top:dotted 2px;
   border-left:none;
   border-right:none;
@@ -44,11 +49,12 @@
 }
 
 .inicial{
-  opacity:0.9;
   background-image:url(./proxy.duckduckgo.com.jpg);
 }
 
 .ferramentas{
+  margin-top:0px;
+  margin-bottom:0px;
   background-color: #fff;
 }
 
@@ -73,11 +79,14 @@ p{
   padding: 3px;
   margin-left:5px;
   margin-right:5px;
+  margin-bottom:2px;
+  border-radius: 5px;
   border-style: double;
   border-width: 1px;
 }
 
-.postsimportantes{
+.pi{
+  opacity: 0.9;
   background-color: #c2c2c2;
   margin: 5px;
 }
