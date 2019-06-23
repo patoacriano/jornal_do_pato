@@ -1,8 +1,22 @@
+.ip{
+  color:black;
+  text-shadow: 3px 2px white;
+  display:inline;
+  background-color:white;
+  opacity:0.7;
+}
+
 .teto{
   font-family: helvetica;
   background-color: #6dd7d9;
-  border: solid 2px white;
+  border: solid 2px #6dd7d9;
   border-radius: 25px;
+  border-top-width:10px;
+  border-bottom-style:none 0px 0px ;
+  border-bottom-width: 20px;
+  border-bottom-color: #6dd7d9;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
   margin: 30px;
   text-align: center;
   text-shadow:1px 2px #fff;
@@ -53,9 +67,6 @@ img{
 }
 
 .ferramentas{
-  margin-top:0px;
-  margin-bottom:0px;
-  background-color: #fff;
 }
 
 body{
@@ -68,6 +79,11 @@ body{
   background-color: #ffffff;
   margin:5px;
   
+}
+
+h4{
+  display:inline;
+  margin:2px;
 }
 
 h3{
