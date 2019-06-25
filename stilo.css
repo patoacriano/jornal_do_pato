@@ -63,7 +63,8 @@ img{
 }
 
 .inicial{
-  background-image:url(./proxy.duckduckgo.com.jpg);
+  background-image:url(./background-image.jpeg);
+  background-attachment: fixed;
 }
 
 .ferramentas{
