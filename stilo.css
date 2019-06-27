@@ -1,5 +1,6 @@
 .ip{
   color:black;
+  display: inline;
   text-shadow: 3px 2px white;
   background-color:white;
   opacity:0.7;
