@@ -4,7 +4,9 @@
   display:inline;
   background-color:white;
   opacity:0.7;
+  font-size: 2vw 8px !important;
 }
+
 
 .teto{
   font-family: helvetica;
@@ -20,6 +22,8 @@
   margin: 30px;
   text-align: center;
   text-shadow:1px 2px #fff;
+  font-size: 12px 6vw;
+
 }
 
 img{
@@ -68,6 +72,7 @@ img{
 }
 
 .ferramentas{
+  font-size:8vw;
 }
 
 body{
@@ -102,10 +107,19 @@ p{
   border-width: 1px;
 }
 
+h3{
+  font-size: 18px;
+}
+
+p{
+  font-size: 14px;
+}
+
 .pi{
   opacity: 0.9;
   background-color: #c2c2c2;
   margin: 5px;
+  font-size: 2vw;
 }
 
 .hee{
