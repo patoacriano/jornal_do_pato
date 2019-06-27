@@ -7,6 +7,16 @@
   font-size: 2vw 8px !important;
 }
 
+.postar{
+ margin: 50px 50px;
+ border: solid 1px;
+
+ text-align: left;
+}
+
+.postu{
+  margin-right:70px;
+}
 
 .teto{
   font-family: helvetica;
@@ -89,7 +99,6 @@ body{
 
 h4{
   display:inline;
-  margin:2px;
 }
 
 h3{
